@@ -8,7 +8,7 @@
 <script>
   export default {
     name: "Dashboard"
-  }ç
+  }
 </script>
 
 <style scoped>
