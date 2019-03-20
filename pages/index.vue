@@ -10,6 +10,7 @@
       </h2>
       <div class="links">
         <nuxt-link to="/page">Page</nuxt-link>
+        <nuxt-link to="/dashboard">Dashboard</nuxt-link>
       </div>
     </div>
   </section>
